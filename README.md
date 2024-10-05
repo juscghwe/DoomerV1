@@ -1,8 +1,6 @@
 # DoomerV1
 Reupload da mit V2 (Weiterverfolgung) überschrieben
 
-Prüfungsleitung ISA
-
 This was the code for a university project (about 6 weeks).
 
 I don't own or declare rights on this project.
